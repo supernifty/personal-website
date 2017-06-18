@@ -5,6 +5,8 @@
 
 * To add content: hugo new project/predictein.md
 
+Once all changes done: ./deploy.sh to build and commit
+
 ### Notes
 * Example website is at themes/academic/exampleSite/
 
