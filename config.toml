@@ -144,6 +144,11 @@ defaultContentLanguageInSubdir = false
     link = "https://www.linkedin.com/in/peter-georgeson-b884524/"
 
   [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "http://orcid.org/0000-0002-5096-4735"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "https//github.com/supernifty"
@@ -160,7 +165,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
