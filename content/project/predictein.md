@@ -1,6 +1,7 @@
 +++
 date = "2017-06-18T09:44:16+10:00"
-external_link = "http://www.predictein.org/"
+#external_link = "http://www.predictein.org/"
+external_link = ""
 highlight = true
 image_preview = "headers/predictein.png"
 math = false
