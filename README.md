@@ -4,6 +4,8 @@
 ### Using hugo
 
 * To add content: hugo new project/predictein.md
+* To edit existing content: look in the content directory
+* To test changes, run "hugo serve"
 
 Once all changes done: ./deploy.sh to build and commit
 

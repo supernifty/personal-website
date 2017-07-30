@@ -14,5 +14,6 @@ weight = 60
 
 +++
 
-* [Algorithms for Functional Genomics](https://handbook.unimelb.edu.au/2017/subjects/comp90014) at [The University of Melbourne](http://www.unimelb.edu.au/): Semester 2, 2017.
+* Subject coordinator for [Algorithms for Functional Genomics](https://handbook.unimelb.edu.au/2017/subjects/comp90014) at [The University of Melbourne](http://www.unimelb.edu.au/), Semester 2, 2017.
+* Guest lecturer for the [Master of Business Analytics](https://mbs.edu/education-development/degreeprograms/masterofbusinessanalytics) at [The University of Melbourne](http://www.unimelb.edu.au/): Semester 1, 2017.
 
